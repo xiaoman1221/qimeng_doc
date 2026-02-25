@@ -20,22 +20,20 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '轻松创作',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        启梦主题基于WordPress进行开发，拥有成熟的框架，小白也能方便上手
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '永久更新',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        启梦主题一次付费终身接收更新，欢迎大家体验
       </>
     ),
   },
