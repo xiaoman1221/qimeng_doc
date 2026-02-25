@@ -139,6 +139,10 @@ const config: Config = {
               label: '云电工作室',
               href: 'https://bbs.ce-studio.cn/',
             },
+            {
+              label: "莫尔豪斯工作室",
+              href: 'https://www.morehouse-s.com/about/',
+            }
           ],
         },
       ],
