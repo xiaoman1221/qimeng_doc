@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="批量添加文档">
+      <change afterPath="$PROJECT_DIR$/docs/疑难解答/404.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/疑难解答/502.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/疑难解答/521.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/疑难解答/522.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/主题使用/基础设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/基础设置.md" afterDir="false" />
@@ -14,6 +18,23 @@
       <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/准备工作/安装主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装主题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/环境配置 - 宝塔篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/环境配置 - 宝塔篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/基础讲解/cdn.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/基础讲解/cdn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/基础讲解/domain.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/基础讲解/domain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/基础讲解/server.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/基础讲解/server.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/疑难解答/CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/疑难解答/CSS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/素材展示模块设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/素材展示模块设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/购买主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/购买主题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/code.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-blog/options.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/footer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/navbar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/code.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-blog/options.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-docs/current.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/footer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/navbar.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +60,9 @@
   "associatedIndex": 2
 }]]></component>
   <component name="ProjectId" id="3AAZHEfnXC6LxkpbY0gDoJs1xv4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,6 +85,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用\内容管理" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\en_US" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\zh_CN" />
@@ -108,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772037246020</updated>
-      <workItem from="1772037247018" duration="6587000" />
+      <workItem from="1772037247018" duration="9721000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -158,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772043767801</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="批量添加文档">
+      <option name="closed" value="true" />
+      <created>1772043911319</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772043911319</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

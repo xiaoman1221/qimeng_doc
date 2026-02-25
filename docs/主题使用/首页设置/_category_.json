@@ -1,0 +1,14 @@
+{
+  "position": 54,
+  "label": "首页设置",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "首页设置"
+  },
+  "customProps": {
+    "description": "基础设施讲解，帮助小白快速了解"
+  }
+}

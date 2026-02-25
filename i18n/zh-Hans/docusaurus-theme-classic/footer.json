@@ -35,6 +35,10 @@
     "message": "云电工作室",
     "description": "The label of footer link with label=云电工作室 linking to https://bbs.ce-studio.cn/"
   },
+  "link.item.label.莫尔豪斯工作室": {
+    "message": "莫尔豪斯工作室",
+    "description": "The label of footer link with label=莫尔豪斯工作室 linking to https://www.morehouse-s.com/about/"
+  },
   "copyright": {
     "message": "Copyright © 2025 -  2026 启梦主题, <a href=\"https://beian.miit.gov.cn/\">蒙ICP备2022000574号-11</a>",
     "description": "The footer copyright"

@@ -1,18 +1,18 @@
 {
   "title": {
-    "message": "启梦主题文档站",
+    "message": "QiMengDoc",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "LGOG",
+    "message": "LOGO",
     "description": "The alt text of navbar logo"
   },
   "item.label.文档": {
-    "message": "文档",
+    "message": "Docs",
     "description": "Navbar item with label 文档"
   },
   "item.label.官方网站": {
-    "message": "官方网站",
+    "message": "Website",
     "description": "Navbar item with label 官方网站"
   },
   "item.label.GitHub": {
