@@ -138,7 +138,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © 2025 -  ${new Date().getFullYear()} 启梦主题, <a href="https://beian.miit.gov.cn/">新ICP备案114514114号</a>`,
+      copyright: `Copyright © 2025 -  ${new Date().getFullYear()} 启梦主题, <a href="https://beian.miit.gov.cn/">蒙ICP备2022000574号-11</a>`,
     },
     prism: {
       theme: prismThemes.github,
