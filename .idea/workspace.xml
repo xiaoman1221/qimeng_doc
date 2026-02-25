@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:阿城的文档">
-      <change afterPath="$PROJECT_DIR$/docs/基础教程/基础设置讲解.md" afterDir="false" />
+    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:阿城的文档+贡献位">
+      <change afterPath="$PROJECT_DIR$/docs/准备工作/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/基础讲解/cdn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/基础讲解/dns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/基础讲解/domain.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/基础讲解/hostos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/基础讲解/panels.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/疑难解答/CSS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/基础设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/基础设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/授权&amp;更新.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/授权&amp;更新.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/页面布局.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/页面布局.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/公告设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/公告设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告（会员入会）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告（会员入会）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装主题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/环境配置 - 宝塔篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/环境配置 - 宝塔篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/基础教程/基础设置讲解.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/购买主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/购买主题.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772037246020</updated>
-      <workItem from="1772037247018" duration="4133000" />
+      <workItem from="1772037247018" duration="6431000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -133,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772041136131</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ADD:阿城的文档+贡献位">
+      <option name="closed" value="true" />
+      <created>1772041441933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772041441933</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +171,7 @@
     <MESSAGE value="Init Commit" />
     <MESSAGE value="FIX:修改标题和SEO.底部备案号" />
     <MESSAGE value="ADD:阿城的文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD:阿城的文档" />
+    <MESSAGE value="ADD:阿城的文档+贡献位" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD:阿城的文档+贡献位" />
   </component>
 </project>

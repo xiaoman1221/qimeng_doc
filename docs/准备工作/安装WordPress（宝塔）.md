@@ -2,8 +2,9 @@
 sidebar_position: 1
 ---
 
-#安装WordPress
-###上传源文件
+# 安装WordPress
+推荐阅读时间：5分钟 作者：[阿城](https://blog.morehouse-s.com/)
+### 上传源文件
 在网站页面里，点击网站根目录。
 ![](https://a1.boltp.com/2026/02/24/699d673141f90.png)
 删除文件
@@ -20,9 +21,9 @@ sidebar_position: 1
 ![](https://a1.boltp.com/2026/02/24/699d67345fc74.png)
 将文件粘贴在根目录下即可。
 
-##访问网站域名，进行下一步操作。
+## 访问网站域名，进行下一步操作。
 
-###安装WordPress程序
+### 安装WordPress程序
 当前页面下，点击“现在就开始！”按钮
 ![1](https://a1.boltp.com/2026/02/23/699c2ed011bb5.png)
 输入数据库名称密码进行安装必备库

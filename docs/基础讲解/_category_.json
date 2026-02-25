@@ -1,0 +1,14 @@
+{
+  "position": 3,
+  "label": "基础讲解",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "基础设施讲解"
+  },
+  "customProps": {
+    "description": "基础设施讲解，帮助小白快速了解"
+  }
+}

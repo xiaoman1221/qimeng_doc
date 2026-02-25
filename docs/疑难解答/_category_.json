@@ -1,0 +1,14 @@
+{
+  "position": 6,
+  "label": "疑难解答",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "疑难解答"
+  },
+  "customProps": {
+    "description": "疑难解答，帮助小白快速定位错误"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "position": 5,
+  "label": "主题使用",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "主题使用"
+  }
+}

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 关于启梦主题
 
-推荐阅读时间：5分钟
+作者：[小满1221](https://www.yhdzz.cn/)
 
 ## 开始
 
