@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'http://localhost:3000/',
+  url: 'https://qm.1v.fit',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -31,8 +31,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh',
-    locales: ['zh'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans','en'],
   },
 
   presets: [
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/xiaoman1221/qimeng_doc/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/xiaoman1221/qimeng_doc/blob/master/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/xiaoman1221/qimeng_doc/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/xiaoman1221/qimeng_doc/blob/master/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -77,7 +77,7 @@ const config: Config = {
     navbar: {
       title: '启梦主题文档站',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'LGOG',
         src: 'img/logo.svg',
       },
       items: [
@@ -88,6 +88,10 @@ const config: Config = {
           label: '文档',
         },
         {to: 'https://www.qiimeng.com/', label: '官方网站', position: 'left'},
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         {
           href: 'https://github.com/xiaoman1221/qimeng_doc',
           label: 'GitHub',

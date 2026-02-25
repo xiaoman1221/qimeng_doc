@@ -1,0 +1,42 @@
+{
+  "link.title.文档": {
+    "message": "文档",
+    "description": "The title of the footer links column with title=文档 in the footer"
+  },
+  "link.title.关于我们": {
+    "message": "关于我们",
+    "description": "The title of the footer links column with title=关于我们 in the footer"
+  },
+  "link.title.更多": {
+    "message": "更多",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.item.label.安装": {
+    "message": "安装",
+    "description": "The label of footer link with label=安装 linking to /docs/intro"
+  },
+  "link.item.label.官方网站(建设中)": {
+    "message": "官方网站(建设中)",
+    "description": "The label of footer link with label=官方网站(建设中) linking to https://www.qiimeng.com/"
+  },
+  "link.item.label.QQ群(内测群)": {
+    "message": "QQ群(内测群)",
+    "description": "The label of footer link with label=QQ群(内测群) linking to https://qm.qq.com/q/OWGdraSf84"
+  },
+  "link.item.label.滥用举报(建设中)": {
+    "message": "滥用举报(建设中)",
+    "description": "The label of footer link with label=滥用举报(建设中) linking to https://www.qiimeng.com/"
+  },
+  "link.item.label.论坛": {
+    "message": "论坛",
+    "description": "The label of footer link with label=论坛 linking to https://www.qiimeng.com/bbs"
+  },
+  "link.item.label.云电工作室": {
+    "message": "云电工作室",
+    "description": "The label of footer link with label=云电工作室 linking to https://bbs.ce-studio.cn/"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 -  2026 启梦主题, <a href=\"https://beian.miit.gov.cn/\">蒙ICP备2022000574号-11</a>",
+    "description": "The footer copyright"
+  }
+}
