@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 安装WordPress
-推荐阅读时间：5分钟 作者：[阿城](https://blog.morehouse-s.com/)
+作者：[阿城](https://blog.morehouse-s.com/)
 ### 上传源文件
 在网站页面里，点击网站根目录。
 ![](https://a1.boltp.com/2026/02/24/699d673141f90.png)
