@@ -4,6 +4,7 @@ sidebar_position: 4.2
 
 # 安装WordPress
 作者：[阿城](https://blog.morehouse-s.com/)
+
 ### 上传源文件
 在网站页面里，点击网站根目录。
 ![](https://a1.boltp.com/2026/02/24/699d673141f90.png)

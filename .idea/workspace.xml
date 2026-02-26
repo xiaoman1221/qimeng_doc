@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD：软件下载模块设置">
+    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:评论设置">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/主题使用/基础设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/基础设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/授权&amp;更新.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/授权&amp;更新.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/评论设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/评论设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/页面布局.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/页面布局.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/公告设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/公告设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告（会员入会）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告（会员入会）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/环境配置 - 宝塔篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/环境配置 - 宝塔篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/footer.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/footer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +123,9 @@
       <workItem from="1772037247018" duration="10376000" />
       <workItem from="1772088141970" duration="58000" />
       <workItem from="1772109109403" duration="1989000" />
-      <workItem from="1772115139292" duration="547000" />
+      <workItem from="1772115139292" duration="941000" />
+      <workItem from="1772120368216" duration="347000" />
+      <workItem from="1772122810008" duration="5510000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -223,7 +239,31 @@
       <option name="project" value="LOCAL" />
       <updated>1772109188268</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="FIX：warning 警告 无法正常展示">
+      <option name="closed" value="true" />
+      <created>1772115700444</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1772115700444</updated>
+    </task>
+    <task id="LOCAL-00016" summary="FIX：danger 危险 无法正常展示">
+      <option name="closed" value="true" />
+      <created>1772120515271</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1772120515271</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ADD:评论设置">
+      <option name="closed" value="true" />
+      <created>1772120697567</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1772120697567</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +282,9 @@
     <MESSAGE value="FIX：文档表述错误" />
     <MESSAGE value="ADD：ERR_TOO_MANY_REDIRECTS" />
     <MESSAGE value="ADD：软件下载模块设置" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD：软件下载模块设置" />
+    <MESSAGE value="FIX：warning 警告 无法正常展示" />
+    <MESSAGE value="FIX：danger 危险 无法正常展示" />
+    <MESSAGE value="ADD:评论设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD:评论设置" />
   </component>
 </project>
