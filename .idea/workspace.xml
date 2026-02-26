@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:评论设置">
+    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:1Panel设置和校对">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/基础设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/基础设置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/授权&amp;更新.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/授权&amp;更新.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/评论设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/评论设置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/页面布局.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/页面布局.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/公告设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/公告设置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告（会员入会）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告（会员入会）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/准备工作/环境配置 - 宝塔篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/环境配置 - 宝塔篇.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/footer.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/footer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +112,7 @@
       <workItem from="1772109109403" duration="1989000" />
       <workItem from="1772115139292" duration="941000" />
       <workItem from="1772120368216" duration="347000" />
-      <workItem from="1772122810008" duration="5510000" />
+      <workItem from="1772122810008" duration="5831000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -263,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772120697567</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ADD:1Panel设置和校对">
+      <option name="closed" value="true" />
+      <created>1772131619856</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1772131619856</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +280,7 @@
     <MESSAGE value="FIX：warning 警告 无法正常展示" />
     <MESSAGE value="FIX：danger 危险 无法正常展示" />
     <MESSAGE value="ADD:评论设置" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD:评论设置" />
+    <MESSAGE value="ADD:1Panel设置和校对" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD:1Panel设置和校对" />
   </component>
 </project>

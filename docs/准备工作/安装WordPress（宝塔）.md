@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4.2
+sidebar_position: 4.3
 ---
 
 # 安装WordPress

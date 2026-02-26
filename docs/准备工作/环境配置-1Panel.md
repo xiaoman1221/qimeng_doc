@@ -1,10 +1,15 @@
 ---
-sidebar_position: 4.4
+sidebar_position: 4.2
 ---
 
 
 # 环境配置 - 1Panel篇
 作者：[小满1221](https://www.yhdzz.cn/)
+
+
+:::warning
+多图警告
+:::
 
 ## 部署基础环境
 
@@ -187,6 +192,18 @@ https://cn.wordpress.org/latest-zh_CN.zip
 ![图片 32](https://img.1v.fit/2026/02/27/P6O.png)
 
 选择主题文件并上传即可
+
+![图片 42](https://img.1v.fit/2026/02/27/s8R.png)
+
+上传成功后就可以启用了
+
+![图片 38](https://img.1v.fit/2026/02/27/hoF.png)
+
+
+
+教程结束
+
+
 
 
 ## 疑难解答
