@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="批量添加文档，文档排序">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HomepageFeatures/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomepageFeatures/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,21 +14,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;xiaoman1221&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xiaoman1221"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/xiaoman1221/qimeng_doc.git&quot;,
-    &quot;accountId&quot;: &quot;a2e450da-d997-483b-acaf-b72974d40fa8&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xiaoman1221/qimeng_doc.git",
+    "accountId": "a2e450da-d997-483b-acaf-b72974d40fa8"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="3AAZHEfnXC6LxkpbY0gDoJs1xv4" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,7 +49,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.start.executor": "Run",
     "npm.write-translations.executor": "Run",
-    "ts.external.directory.path": "/Users/xiaoman1221/WebstormProjects/qimeng_doc/node_modules/typescript/lib",
+    "ts.external.directory.path": "C:\\Users\\im\\WebstormProjects\\Docs\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -105,8 +104,6 @@
       <option name="presentableId" value="Default" />
       <updated>1772037246020</updated>
       <workItem from="1772037247018" duration="10376000" />
-      <workItem from="1772048023324" duration="26000" />
-      <workItem from="1772048144838" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />

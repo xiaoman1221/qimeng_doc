@@ -1,0 +1,178 @@
+Index: docs/疑难解答/522.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\r\ntitle: 页面显示522错误\r\nsidebar_position: 6.5\r\n---\r\n\r\n# 页面522错误\r\n作者：[小满1221](https://www.yhdzz.cn/)\r\n\r\n\r\n## 原因\r\n\r\n1. 解析到了错误的IP地址\r\n2. CDN源站地址错误\r\n3. SSL证书过期错误\r\n\r\n## 解决方案\r\n\r\n1. 检查DNS系统，是不是解析错了地址\r\n2. 查看CDN系统，是不是源站的IP地址写错了\r\n3. 查看源站的证书是不是处于过期状态或者是证书声明的域名和访问域对不上\r\n4. 查看CDN的SSL证书是不是处于过期状态
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/疑难解答/522.md b/docs/疑难解答/522.md
+--- a/docs/疑难解答/522.md	(revision fb0c4e408f1bc42089b84a2787446b8bd77dda1d)
++++ b/docs/疑难解答/522.md	(date 1772077995577)
+@@ -1,6 +1,6 @@
+ ---
+ title: 页面显示522错误
+-sidebar_position: 6.5
++sidebar_position: 6.6
+ ---
+ 
+ # 页面522错误
+Index: docs/疑难解答/CSS.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\r\ntitle: 无法正常加载CSS\r\nsidebar_position: 6.1\r\n---\r\n\r\n# 无法正常加载CSS\r\n作者：[小满1221](https://www.yhdzz.cn/)\r\n\r\n## 故障产生的原因\r\n\r\n大部分原因是https里面请求了http的资源\r\n\r\n## 解决方案\r\n\r\n先备份数据库：然后在wp_options表里面改地址，应该是有一个地址http开头\r\n\r\n或者开强制HTTPS，但是开了可能会多次重定向。
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/疑难解答/CSS.md b/docs/疑难解答/CSS.md
+--- a/docs/疑难解答/CSS.md	(revision fb0c4e408f1bc42089b84a2787446b8bd77dda1d)
++++ b/docs/疑难解答/CSS.md	(date 1772077970823)
+@@ -1,6 +1,6 @@
+ ---
+ title: 无法正常加载CSS
+-sidebar_position: 6.1
++sidebar_position: 6.2
+ ---
+ 
+ # 无法正常加载CSS
+Index: docs/疑难解答/404.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\r\ntitle: 页面显示404 Not Found\r\nsidebar_position: 6.2\r\n---\r\n\r\n# 页面显示404 Not Found\r\n作者：[小满1221](https://www.yhdzz.cn/)\r\n\r\n## 原因\r\n\r\n1. 没设置伪静态，参考先前教程设置\r\n2. 没有文件\r\n3. 主题是不是没激活\r\n4. 网站文件夹权限\r\n\r\n## 解决方案\r\n\r\n1. 设置伪静态\r\n2. 在后台查看是否文件没在网站，或者是解压的时候解压到别的目录了\r\n3. 安装主题后如果出现此情况说明主题没授权激活，进入后台填写授权码完成授权操作即可。\r\n4. 设置文件目录权限支持Nginx和PHP读取/执行（一般用户为www和www-data 一般权限为755）\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/疑难解答/404.md b/docs/疑难解答/404.md
+--- a/docs/疑难解答/404.md	(revision fb0c4e408f1bc42089b84a2787446b8bd77dda1d)
++++ b/docs/疑难解答/404.md	(date 1772077995559)
+@@ -1,6 +1,6 @@
+ ---
+ title: 页面显示404 Not Found
+-sidebar_position: 6.2
++sidebar_position: 6.3
+ ---
+ 
+ # 页面显示404 Not Found
+Index: docs/疑难解答/502.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\r\ntitle: 页面显示502 Bad Gateway\r\nsidebar_position: 6.3\r\n---\r\n\r\n\r\n# 页面502 Bad Gateway\r\n作者：[小满1221](https://www.yhdzz.cn/)\r\n\r\n\r\n## 原因\r\n\r\n1. PHP没有正常启动或PHP版本选择错误\r\n2. 跨站攻击问题\r\n3. PHP配置出错\r\n4. IP地址解析错误\r\n\r\n## 解决方案\r\n\r\n1. 检查PHP版本，确认PHP正常运行\r\n2. 网站设置里关闭跨站攻击后重新打开或者到wp的根目录查到是否有`.user.ini`文件，修改文件中的网站目录到目前的目录（不要删除后面的的:tmp)或者删除此文件\r\n3. PHP配置出错的情况下一般会导致PHP无法正常启动，这种情况在宝塔的情况很多，如果前面编辑过PHP的文件然后后期加了扩展就可能会导致此问题，查看对应PHP的配置文件并修复（一般情况下是两条命令重叠了在一行，建议手动修改的时候多按两次回车避免面板加配置的时候出现两个配置在一行的情况）\r\n4. 查看你的DNS/CDN系统，是不是解析错了地址或者解析到了内网地址
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/疑难解答/502.md b/docs/疑难解答/502.md
+--- a/docs/疑难解答/502.md	(revision fb0c4e408f1bc42089b84a2787446b8bd77dda1d)
++++ b/docs/疑难解答/502.md	(date 1772077995533)
+@@ -1,6 +1,6 @@
+ ---
+ title: 页面显示502 Bad Gateway
+-sidebar_position: 6.3
++sidebar_position: 6.4
+ ---
+ 
+ 
+Index: docs/疑难解答/521.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\r\ntitle: 页面显示521错误\r\nsidebar_position: 6.4\r\n---\r\n\r\n# 页面521错误\r\n作者：[小满1221](https://www.yhdzz.cn/)\r\n\r\n\r\n## 原因\r\n\r\n1. 解析到了错误的地址\r\n2. 这种错误一般情况下是绑定了CDN才会有的特殊错误码\r\n\r\n## 解决方案\r\n\r\n1. 检查DNS系统，是不是解析错了地址\r\n2. 查看CDN系统，是不是源站的IP地址写错了\r\n3. 查看服务器／虚拟主机　的对应端口是不是被防火墙拦截（默认端口是80/443）\r\n4. 查看Nginx服务是否处于停止状态
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/疑难解答/521.md b/docs/疑难解答/521.md
+--- a/docs/疑难解答/521.md	(revision fb0c4e408f1bc42089b84a2787446b8bd77dda1d)
++++ b/docs/疑难解答/521.md	(date 1772077995546)
+@@ -1,6 +1,6 @@
+ ---
+ title: 页面显示521错误
+-sidebar_position: 6.4
++sidebar_position: 6.5
+ ---
+ 
+ # 页面521错误
+Index: docs/疑难解答/Q&A.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/docs/疑难解答/Q&A.md b/docs/疑难解答/Q&A.md
+new file mode 100644
+--- /dev/null	(date 1772078155855)
++++ b/docs/疑难解答/Q&A.md	(date 1772078155855)
+@@ -0,0 +1,13 @@
++---
++title: 首页
++sidebar_position: 6.1
++---
++
++
++# 首页
++作者：[小满1221](https://www.yhdzz.cn/)
++
++
++此页面用于收集大家的各种疑难杂症，如果你在使用遇到了任何问题请在QQ群组提问，比较频繁的问题会将方案同步到此处
++
++或者你也可以使用此链接反馈：[Github](https://github.com/xiaoman1221/qimeng_doc/issues)
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"712fe70b-a864-425e-ae5b-b9bb001f9659\" name=\"更改\" comment=\"批量添加文档，文档排序\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/docs/intro.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/docs/intro.md\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/components/HomepageFeatures/index.tsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/components/HomepageFeatures/index.tsx\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"xiaoman1221\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/xiaoman1221/qimeng_doc.git\",\r\n    \"accountId\": \"a2e450da-d997-483b-acaf-b72974d40fa8\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 2\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"3AAZHEfnXC6LxkpbY0gDoJs1xv4\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"javascript.preferred.runtime.type.id\": \"node\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"npm.start.executor\": \"Run\",\r\n    \"npm.write-translations.executor\": \"Run\",\r\n    \"ts.external.directory.path\": \"C:\\\\Users\\\\im\\\\WebstormProjects\\\\Docs\\\\node_modules\\\\typescript\\\\lib\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\im\\WebstormProjects\\Docs\\docs\\主题使用\\内容管理\" />\r\n      <recent name=\"C:\\Users\\im\\WebstormProjects\\Docs\\docs\" />\r\n      <recent name=\"C:\\Users\\im\\WebstormProjects\\Docs\\docs\\en_US\" />\r\n      <recent name=\"C:\\Users\\im\\WebstormProjects\\Docs\\docs\\zh_CN\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"npm.start\">\r\n    <configuration name=\"start\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"start\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"write-translations\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"write-translations\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"npm.start\" />\r\n        <item itemvalue=\"npm.write-translations\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\r\n      <changelist id=\"712fe70b-a864-425e-ae5b-b9bb001f9659\" name=\"更改\" comment=\"\" />\r\n      <created>1772037246020</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1772037246020</updated>\r\n      <workItem from=\"1772037247018\" duration=\"10376000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Init Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772038708613</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772038708613</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"FIX:修改标题和SEO.底部备案号\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772039244857</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772039244857</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"ADD:阿城的文档\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772041129299</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772041129299</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"ADD:阿城的文档\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772041136131</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772041136131</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"ADD:阿城的文档+贡献位\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772041441933</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772041441933</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"批量添加文档\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772043767801</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772043767801</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"批量添加文档\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772043911319</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772043911319</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"批量添加文档，文档排序\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1772047086466</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1772047086466</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Init Commit\" />\r\n    <MESSAGE value=\"FIX:修改标题和SEO.底部备案号\" />\r\n    <MESSAGE value=\"ADD:阿城的文档\" />\r\n    <MESSAGE value=\"ADD:阿城的文档+贡献位\" />\r\n    <MESSAGE value=\"批量添加文档\" />\r\n    <MESSAGE value=\"批量添加文档，文档排序\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"批量添加文档，文档排序\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fb0c4e408f1bc42089b84a2787446b8bd77dda1d)
++++ b/.idea/workspace.xml	(date 1772078155890)
+@@ -1,10 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="批量添加文档，文档排序">
++    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="修改main页面和intro页面">
++      <change afterPath="$PROJECT_DIR$/docs/疑难解答/Q&amp;A.md" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/components/HomepageFeatures/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomepageFeatures/index.tsx" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/疑难解答/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/疑难解答/404.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/疑难解答/502.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/疑难解答/502.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/疑难解答/521.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/疑难解答/521.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/疑难解答/522.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/疑难解答/522.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/疑难解答/CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/疑难解答/CSS.md" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -103,7 +107,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1772037246020</updated>
+-      <workItem from="1772037247018" duration="10376000" />
++      <workItem from="1772037247018" duration="11221000" />
+     </task>
+     <task id="LOCAL-00001" summary="Init Commit">
+       <option name="closed" value="true" />
+@@ -169,7 +173,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1772047086466</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="修改main页面和intro页面">
++      <option name="closed" value="true" />
++      <created>1772047764535</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1772047764535</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -182,6 +194,7 @@
+     <MESSAGE value="ADD:阿城的文档+贡献位" />
+     <MESSAGE value="批量添加文档" />
+     <MESSAGE value="批量添加文档，文档排序" />
+-    <option name="LAST_COMMIT_MESSAGE" value="批量添加文档，文档排序" />
++    <MESSAGE value="修改main页面和intro页面" />
++    <option name="LAST_COMMIT_MESSAGE" value="修改main页面和intro页面" />
+   </component>
+ </project>
+\ No newline at end of file
