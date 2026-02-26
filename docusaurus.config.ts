@@ -88,6 +88,7 @@ const config: Config = {
           label: '文档',
         },
         {to: 'https://www.qiimeng.com/', label: '官方网站', position: 'left'},
+        {to: 'https://dildil.icu/', label: '官方演示站', position: 'left'},
         {
           type: 'localeDropdown',
           position: 'right',
