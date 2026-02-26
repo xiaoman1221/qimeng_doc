@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD：ERR_TOO_MANY_REDIRECTS">
-      <change afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/软件下载模块设置.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" afterDir="false" />
+    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD：软件下载模块设置">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/基础设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/基础设置.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Users/im/WebstormProjects/Docs/docs/主题使用",
-    "nodejs_package_manager_path": "npm",
-    "npm.start.executor": "Run",
-    "npm.write-translations.executor": "Run",
-    "ts.external.directory.path": "C:\\Users\\im\\WebstormProjects\\Docs\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/im/WebstormProjects/Docs/docs/主题使用&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;npm.write-translations.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\im\\WebstormProjects\\Docs\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用" />
@@ -109,7 +108,8 @@
       <updated>1772037246020</updated>
       <workItem from="1772037247018" duration="10376000" />
       <workItem from="1772088141970" duration="58000" />
-      <workItem from="1772109109403" duration="64000" />
+      <workItem from="1772109109403" duration="1989000" />
+      <workItem from="1772115139292" duration="547000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -215,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772086595080</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ADD：软件下载模块设置">
+      <option name="closed" value="true" />
+      <created>1772109188268</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1772109188268</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +241,7 @@
     <MESSAGE value="FIX：Github链接转为QQ群" />
     <MESSAGE value="FIX：文档表述错误" />
     <MESSAGE value="ADD：ERR_TOO_MANY_REDIRECTS" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD：ERR_TOO_MANY_REDIRECTS" />
+    <MESSAGE value="ADD：软件下载模块设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD：软件下载模块设置" />
   </component>
 </project>
