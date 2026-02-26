@@ -74,6 +74,12 @@ const config: Config = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
+    algolia: {
+      contextualSearch: true,
+      appId: 'C6O8YD97EF',
+      apiKey: '4f11b644b1c6d5983cccc1b6e5d8d06e',
+      indexName: '启梦主题文档站 ',
+    },
     navbar: {
       title: '启梦主题文档站',
       logo: {
@@ -94,8 +100,8 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/xiaoman1221/qimeng_doc',
-          label: 'GitHub',
+          href: 'https://qm.qq.com/q/yuk1A0RncA',
+          label: 'QQ群',
           position: 'right',
         },
       ],
