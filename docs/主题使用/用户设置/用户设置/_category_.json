@@ -1,0 +1,14 @@
+{
+  "position": 57,
+  "label": "用户设置",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "用户设置讲解"
+  },
+  "customProps": {
+    "description": "用户设置讲解，帮助小白快速了解"
+  }
+}

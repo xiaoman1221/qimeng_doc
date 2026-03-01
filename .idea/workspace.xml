@@ -2,9 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:1Panel设置和校对">
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/AI助手模块.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/VIP会员.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/任务设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/用户设置/登录注册.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/等级系统/基础设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/等级系统/外观映射.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/等级系统/经验获取规则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/移动端设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/签到设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/AI助手模块.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/优惠券设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/前端设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/移动端设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/评论设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/软件下载模块设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/VIP会员.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/任务设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/签到设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/联系客服与反馈.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/性能优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/支付设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/用户徽章.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/用户设置/登录注册.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/等级系统/基础设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/等级系统/外观映射.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/等级系统/经验获取规则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/网站备份.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/网站统计.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/邮件与smtp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/网站备份/页脚设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/主题使用/联系客服与反馈.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/code.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-blog/options.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/footer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/navbar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/code.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-blog/options.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-docs/current.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/footer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/navbar.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +152,9 @@
       <workItem from="1772115139292" duration="941000" />
       <workItem from="1772120368216" duration="347000" />
       <workItem from="1772122810008" duration="5831000" />
+      <workItem from="1772172258505" duration="3521000" />
+      <workItem from="1772205126588" duration="2209000" />
+      <workItem from="1772375391711" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
