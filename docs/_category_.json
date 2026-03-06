@@ -1,0 +1,14 @@
+{
+  "position": 5.4,
+  "label": "首页设置",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "首页设置"
+  },
+  "customProps": {
+    "description": "欢迎来到启梦主题官方文档站"
+  }
+}

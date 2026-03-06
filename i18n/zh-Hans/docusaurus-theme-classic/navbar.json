@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "启梦主题文档站",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "LGOG",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.文档": {
+    "message": "文档",
+    "description": "Navbar item with label 文档"
+  },
+  "item.label.官方网站": {
+    "message": "官方网站",
+    "description": "Navbar item with label 官方网站"
+  },
+  "item.label.官方演示站": {
+    "message": "官方演示站",
+    "description": "Navbar item with label 官方演示站"
+  },
+  "item.label.QQ群": {
+    "message": "QQ群",
+    "description": "Navbar item with label QQ群"
+  }
+}

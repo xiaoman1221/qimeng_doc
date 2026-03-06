@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.基础讲解": {
+    "message": "基础讲解",
+    "description": "The label for category '基础讲解' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.基础讲解.link.generated-index.title": {
+    "message": "基础设施讲解",
+    "description": "The generated-index page title for category '基础讲解' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.准备工作": {
+    "message": "准备工作",
+    "description": "The label for category '准备工作' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.准备工作.link.generated-index.title": {
+    "message": "准备工作",
+    "description": "The generated-index page title for category '准备工作' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.主题使用": {
+    "message": "主题使用",
+    "description": "The label for category '主题使用' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.主题使用.link.generated-index.title": {
+    "message": "主题使用，关主题相关设置项的解释",
+    "description": "The generated-index page title for category '主题使用' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.首页设置": {
+    "message": "首页设置",
+    "description": "The label for category '首页设置' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.首页设置.link.generated-index.title": {
+    "message": "首页设置",
+    "description": "The generated-index page title for category '首页设置' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.内容管理": {
+    "message": "内容管理",
+    "description": "The label for category '内容管理' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.内容管理.link.generated-index.title": {
+    "message": "内容管理",
+    "description": "The generated-index page title for category '内容管理' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.等级系统": {
+    "message": "等级系统",
+    "description": "The label for category '等级系统' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.等级系统.link.generated-index.title": {
+    "message": "关于等级系统的讲解",
+    "description": "The generated-index page title for category '等级系统' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.用户设置": {
+    "message": "用户设置",
+    "description": "The label for category '用户设置' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.用户设置.link.generated-index.title": {
+    "message": "用户设置讲解",
+    "description": "The generated-index page title for category '用户设置' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.登陆注册相关说明": {
+    "message": "登陆注册相关说明",
+    "description": "The label for category '登陆注册相关说明' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.登陆注册相关说明.link.generated-index.title": {
+    "message": "登陆注册相关说明",
+    "description": "The generated-index page title for category '登陆注册相关说明' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.网站备份": {
+    "message": "网站备份",
+    "description": "The label for category '网站备份' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.功能模块": {
+    "message": "功能模块",
+    "description": "The label for category '功能模块' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.疑难解答": {
+    "message": "疑难解答",
+    "description": "The label for category '疑难解答' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.疑难解答.link.generated-index.title": {
+    "message": "疑难解答",
+    "description": "The generated-index page title for category '疑难解答' in sidebar 'tutorialSidebar'"
+  }
+}

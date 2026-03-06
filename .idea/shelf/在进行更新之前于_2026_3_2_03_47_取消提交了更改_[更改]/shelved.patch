@@ -1,0 +1,97 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"712fe70b-a864-425e-ae5b-b9bb001f9659\" name=\"更改\" comment=\"批量添加文档，文档排序\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/package-lock.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package-lock.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/package.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/pages/index.tsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/pages/index.tsx\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;xiaoman1221&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/xiaoman1221/qimeng_doc.git&quot;,\n    &quot;accountId&quot;: &quot;a2e450da-d997-483b-acaf-b72974d40fa8&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"3AAZHEfnXC6LxkpbY0gDoJs1xv4\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"javascript.preferred.runtime.type.id\": \"node\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"npm.start.executor\": \"Run\",\n    \"npm.write-translations.executor\": \"Run\",\n    \"ts.external.directory.path\": \"/Users/xiaoman1221/WebstormProjects/qimeng_doc/node_modules/typescript/lib\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\im\\WebstormProjects\\Docs\\docs\\主题使用\\内容管理\" />\n      <recent name=\"C:\\Users\\im\\WebstormProjects\\Docs\\docs\" />\n      <recent name=\"C:\\Users\\im\\WebstormProjects\\Docs\\docs\\en_US\" />\n      <recent name=\"C:\\Users\\im\\WebstormProjects\\Docs\\docs\\zh_CN\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"npm.start\">\n    <configuration name=\"start\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"start\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"write-translations\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"write-translations\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"npm.start\" />\n        <item itemvalue=\"npm.write-translations\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\n      <changelist id=\"712fe70b-a864-425e-ae5b-b9bb001f9659\" name=\"更改\" comment=\"\" />\n      <created>1772037246020</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1772037246020</updated>\n      <workItem from=\"1772037247018\" duration=\"10376000\" />\n      <workItem from=\"1772048023324\" duration=\"26000\" />\n      <workItem from=\"1772048144838\" duration=\"173000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Init Commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772038708613</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772038708613</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"FIX:修改标题和SEO.底部备案号\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772039244857</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772039244857</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"ADD:阿城的文档\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772041129299</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772041129299</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"ADD:阿城的文档\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772041136131</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772041136131</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"ADD:阿城的文档+贡献位\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772041441933</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772041441933</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"批量添加文档\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772043767801</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772043767801</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"批量添加文档\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772043911319</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772043911319</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"批量添加文档，文档排序\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1772047086466</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1772047086466</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"9\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Init Commit\" />\n    <MESSAGE value=\"FIX:修改标题和SEO.底部备案号\" />\n    <MESSAGE value=\"ADD:阿城的文档\" />\n    <MESSAGE value=\"ADD:阿城的文档+贡献位\" />\n    <MESSAGE value=\"批量添加文档\" />\n    <MESSAGE value=\"批量添加文档，文档排序\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"批量添加文档，文档排序\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3bf16e70135027ca81fa416f83926fe19e8ddcd0)
++++ b/.idea/workspace.xml	(date 1772394421215)
+@@ -1,11 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="批量添加文档，文档排序">
++    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="chore(project): 更新项目配置和依赖项&#10;&#10;- 将项目名称从 demo 更改为 qimeng_doc&#10;- 更新版本号从 0.0.0 到 0.0.9&#10;- 修改首页链接文本删除时间标识&#10;- 在 package-lock.json 中添加 peer 依赖标记&#10;- 更新 WebStorm 配置文件路径和项目设置&#10;- 添加 .idea/vcs.xml 版本控制配置文件">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -38,22 +35,22 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+-    "git-widget-placeholder": "master",
+-    "javascript.preferred.runtime.type.id": "node",
+-    "nodejs_package_manager_path": "npm",
+-    "npm.start.executor": "Run",
+-    "npm.write-translations.executor": "Run",
+-    "ts.external.directory.path": "/Users/xiaoman1221/WebstormProjects/qimeng_doc/node_modules/typescript/lib",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;npm.start.executor&quot;: &quot;Run&quot;,
++    &quot;npm.write-translations.executor&quot;: &quot;Run&quot;,
++    &quot;ts.external.directory.path&quot;: &quot;/Users/xiaoman1221/WebstormProjects/qimeng_doc/node_modules/typescript/lib&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用\内容管理" />
+@@ -106,7 +103,7 @@
+       <updated>1772037246020</updated>
+       <workItem from="1772037247018" duration="10376000" />
+       <workItem from="1772048023324" duration="26000" />
+-      <workItem from="1772048144838" duration="173000" />
++      <workItem from="1772048144838" duration="1248000" />
+     </task>
+     <task id="LOCAL-00001" summary="Init Commit">
+       <option name="closed" value="true" />
+@@ -172,7 +169,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1772047086466</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="chore(project): 更新项目配置和依赖项&#10;&#10;- 将项目名称从 demo 更改为 qimeng_doc&#10;- 更新版本号从 0.0.0 到 0.0.9&#10;- 修改首页链接文本删除时间标识&#10;- 在 package-lock.json 中添加 peer 依赖标记&#10;- 更新 WebStorm 配置文件路径和项目设置&#10;- 添加 .idea/vcs.xml 版本控制配置文件">
++      <option name="closed" value="true" />
++      <created>1772048350152</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1772048350152</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -185,6 +190,7 @@
+     <MESSAGE value="ADD:阿城的文档+贡献位" />
+     <MESSAGE value="批量添加文档" />
+     <MESSAGE value="批量添加文档，文档排序" />
+-    <option name="LAST_COMMIT_MESSAGE" value="批量添加文档，文档排序" />
++    <MESSAGE value="chore(project): 更新项目配置和依赖项&#10;&#10;- 将项目名称从 demo 更改为 qimeng_doc&#10;- 更新版本号从 0.0.0 到 0.0.9&#10;- 修改首页链接文本删除时间标识&#10;- 在 package-lock.json 中添加 peer 依赖标记&#10;- 更新 WebStorm 配置文件路径和项目设置&#10;- 添加 .idea/vcs.xml 版本控制配置文件" />
++    <option name="LAST_COMMIT_MESSAGE" value="chore(project): 更新项目配置和依赖项&#10;&#10;- 将项目名称从 demo 更改为 qimeng_doc&#10;- 更新版本号从 0.0.0 到 0.0.9&#10;- 修改首页链接文本删除时间标识&#10;- 在 package-lock.json 中添加 peer 依赖标记&#10;- 更新 WebStorm 配置文件路径和项目设置&#10;- 添加 .idea/vcs.xml 版本控制配置文件" />
+   </component>
+ </project>
+\ No newline at end of file
