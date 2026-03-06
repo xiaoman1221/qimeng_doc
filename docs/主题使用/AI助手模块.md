@@ -1,3 +1,7 @@
+---
+sidebar_position: 5.6
+---
+
 # AI助手设置
 作者：[阿城](https://blog.morehouse-s.com/)
 

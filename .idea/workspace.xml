@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:批量添加文档" />
+    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:批量添加文档">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/AI助手模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/AI助手模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/素材展示模块设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/素材展示模块设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/软件下载模块设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/软件下载模块设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/基础设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/基础设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/授权&amp;更新.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/授权&amp;更新.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/用户设置/_category_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/用户设置/登录注册.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/登录注册.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/等级系统/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/等级系统/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/等级系统/基础设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/等级系统/基础设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/等级系统/外观映射.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/等级系统/外观映射.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/等级系统/经验获取规则.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/移动端设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/移动端设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/AI助手模块.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/优惠券设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/优惠券设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/前端设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/前端设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/移动端设置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/评论设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/评论设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/内容设置/软件下载模块设置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/用户设置/登录注册.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/等级系统/基础设置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/等级系统/外观映射.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/等级系统/经验获取规则.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/等级系统/经验获取规则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/评论设置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/页面布局.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/页面布局.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/公告设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/公告设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告（会员入会）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/弹窗公告（会员入会）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装主题.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +56,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/xiaoman1221/qimeng_doc.git&quot;,
-    &quot;accountId&quot;: &quot;a2e450da-d997-483b-acaf-b72974d40fa8&quot;
+    &quot;url&quot;: &quot;git@github.com:xiaoman1221/qimeng_doc.git&quot;,
+    &quot;accountId&quot;: &quot;eebe49e8-5db0-4b43-941b-5d424e24887a&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -44,6 +82,7 @@
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/im/WebstormProjects/Docs/docs/主题使用&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
     &quot;npm.start.executor&quot;: &quot;Run&quot;,
     &quot;npm.write-translations.executor&quot;: &quot;Run&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\im\\WebstormProjects\\Docs\\node_modules\\typescript\\lib&quot;,
@@ -55,13 +94,24 @@
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/主题使用/用户设置" />
+      <recent name="$PROJECT_DIR$/docs/主题使用/等级系统" />
+      <recent name="$PROJECT_DIR$/docs/主题使用" />
+      <recent name="$PROJECT_DIR$/docs/主题使用/内容管理" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用\内容管理" />
-      <recent name="C:\Users\im\WebstormProjects\Docs\docs" />
-      <recent name="C:\Users\im\WebstormProjects\Docs\docs\en_US" />
-      <recent name="C:\Users\im\WebstormProjects\Docs\docs\zh_CN" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -86,6 +136,7 @@
       <list>
         <item itemvalue="npm.start" />
         <item itemvalue="npm.write-translations" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +163,8 @@
       <workItem from="1772172258505" duration="3521000" />
       <workItem from="1772205126588" duration="2209000" />
       <workItem from="1772375391711" duration="415000" />
+      <workItem from="1772618876876" duration="115000" />
+      <workItem from="1772619008616" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
