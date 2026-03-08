@@ -3,6 +3,7 @@ sidebar_position: 5.46
 ---
 
 # 自定义HTML小工具
+作者：[阿城](https://blog.morehouse-s.com/)
 
 ## 全宽区域自定义HTML
 ![](https://a1.boltp.com/2026/03/04/69a7e81331b0e.png)

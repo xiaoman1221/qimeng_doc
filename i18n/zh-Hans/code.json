@@ -59,13 +59,13 @@
     "message": "切换浅色/暗黑模式（当前为{mode}）",
     "description": "The ARIA label for the color mode toggle"
   },
-  "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "{count} 个项目",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
   "theme.docs.breadcrumbs.navAriaLabel": {
     "message": "页面路径",
     "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "{count} 个项目",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
     "message": "文件选项卡",
@@ -126,13 +126,13 @@
     "message": "最后{byUser}{atDate}更新",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
-  "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "选择版本",
-    "description": "The label for the navbar versions dropdown on mobile view"
-  },
   "theme.NotFound.title": {
     "message": "找不到页面",
     "description": "The title of the 404 page"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "选择版本",
+    "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.tags.tagsListLabel": {
     "message": "标签：",
@@ -186,10 +186,6 @@
     "message": "主导航",
     "description": "The ARIA label for the main navigation"
   },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "选择语言",
-    "description": "The label for the mobile language switcher dropdown"
-  },
   "theme.NotFound.p1": {
     "message": "我们找不到您要找的页面。",
     "description": "The first paragraph of the 404 page"
@@ -201,6 +197,10 @@
   "theme.TOCCollapsible.toggleButtonLabel": {
     "message": "本页总览",
     "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "选择语言",
+    "description": "The label for the mobile language switcher dropdown"
   },
   "theme.blog.post.readMore": {
     "message": "阅读更多",

@@ -1,0 +1,14 @@
+{
+  "position": 5.6,
+  "label": "功能模块",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "功能模块讲解"
+  },
+  "customProps": {
+    "description": "功能模块讲解，帮助小白快速了解"
+  }
+}
