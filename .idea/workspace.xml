@@ -1,30 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:批量添加文档">
+    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="FIX:修改文档排序和部分文章错误">
+      <change afterPath="$PROJECT_DIR$/static/img/docs/1/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/1/posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/1/posts_content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/1/posts_push.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/1/vip_pages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/2/qq_group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_BuildPHPEnv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_ChangeFolderPermission.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_ClickYourDomain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_ConfirmDatabaseInfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_CreateDatabase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_CreateRunEnv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_CreateSite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_CutAllFiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_DatabaseConnectInfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_DeleteDefaultFile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_DeleteUnusedFIles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_DockerStoped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_DownloadWordPress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_EnterPHPRuntimeEnvFolder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_EnterSiteFolder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_FIndupload_max_filesize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_FinalList.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_FindPHPConfigFile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_FixPHPConfig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_InputWordPressDatabaseInfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_InputWordPressSiteInfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_InstallSuccessful.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_InstallTheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_LoginWordPress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_OpenDownloadBox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_PasteAllFiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_PseudoStaticSetting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_RestartPHPEnv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_SelectAllFiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_SelectPHPMirrors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_SettingWordPressPermaLink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_SettingWordPressPermaLinkValue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_ThemeEnable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_ThemeFileSelect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_ThemeUpload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_UnzipWordPress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_UnzipWordPressFinish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_WordPressFolderNoPermiession.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_WordPressInstall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_WordPressWebSite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/1p_upload_max_filesize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_AddPHPConfig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_ConfigSite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_CreateSite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_CreateSiteSSL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_RestartPHP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_SelectSSLProvider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_SettingPseudoStaticForWordPress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_SettingSitePseudoStatic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_SettingSiteSSL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_SiteSetting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_appStore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_fix_phpConfigFiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_install_php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_install_php_sg16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_php_setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/bt_search_php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/theme_ClickInstallThemeButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/theme_EnableTheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/theme_SelectThemeFile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/theme_StartInstall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/theme_UploadTheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_ConfirmUnzipWordPressFile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_CutAllFile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_DeleteDefaultFiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_EnterSiteFolder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_EnterWordPressFolder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_InstallInputDataBaseInfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_InstallYourAdminNameAndPassword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_LoginToWordPress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_StartInstall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_UnzipWordPressFile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docs/4/wp_UploadWordPressSourceCode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2026_3_3_03_42____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2026_3_3_03_42_取消提交了更改_[更改]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/SEO设置/SEO基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/SEO设置/SEO基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/SEO设置/收录推送.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/SEO设置/收录推送.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/VIP会员.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/任务设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/签到设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/联系客服与反馈.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/性能优化.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/支付设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/用户徽章.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/网站备份.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/网站统计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/邮件与smtp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/页脚设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/自定义HTML小工具.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/自定义HTML小工具.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/code.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-blog/options.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-docs/current.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/footer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/navbar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装主题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/宝塔PHP环境配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/宝塔PHP环境配置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/宝塔添加与配置站点.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/宝塔添加与配置站点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/环境配置-1Panel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/购买主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/购买主题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,32 +124,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/im/WebstormProjects/Docs/docs/主题使用&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;npm.write-translations.executor&quot;: &quot;Run&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\im\\WebstormProjects\\Docs\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/im/WebstormProjects/Docs/static/img/docs/4",
+    "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "npm.write-translations.executor": "Run",
+    "ts.external.directory.path": "C:\\Users\\im\\WebstormProjects\\Docs\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\4" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\1" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\2" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\2" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\1" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用\内容管理" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\en_US" />
-      <recent name="C:\Users\im\WebstormProjects\Docs\docs\zh_CN" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -136,6 +208,8 @@
       <workItem from="1772172258505" duration="3521000" />
       <workItem from="1772205126588" duration="2209000" />
       <workItem from="1772375391711" duration="415000" />
+      <workItem from="1773063617956" duration="596000" />
+      <workItem from="1773249398504" duration="5986000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -289,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772375489251</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="FIX:修改文档排序和部分文章错误">
+      <option name="closed" value="true" />
+      <created>1772977771717</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1772977771717</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +406,7 @@
     <MESSAGE value="ADD:评论设置" />
     <MESSAGE value="ADD:1Panel设置和校对" />
     <MESSAGE value="ADD:批量添加文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD:批量添加文档" />
+    <MESSAGE value="FIX:修改文档排序和部分文章错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX:修改文档排序和部分文章错误" />
   </component>
 </project>

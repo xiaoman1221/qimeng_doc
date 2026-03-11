@@ -16,12 +16,12 @@ sidebar_position: 1
 ## 加入内测群
 进入我们的内测用户群了解更多: [1018886619](https://qm.qq.com/q/yuk1A0RncA)
 
-![](https://a1.boltp.com/2026/03/08/69ad85b68bca6.png)
+![qq_group.png](../static/img/docs/2/qq_group.png)
 
 ## 主题演示
 
-![](https://a1.boltp.com/2026/03/08/69ad86ab8b690.png)
-![](https://a1.boltp.com/2026/03/08/69ad86c81cf1f.png)
-![](https://a1.boltp.com/2026/03/08/69ad8702c842e.png)
-![](https://a1.boltp.com/2026/03/08/69ad8717be849.png)
-![](https://a1.boltp.com/2026/03/08/69ad87679cd7b.png)
+![index.png](../static/img/docs/1/index.png)
+![posts.png](../static/img/docs/1/posts.png)
+![posts_content.png](../static/img/docs/1/posts_content.png)
+![posts_push.png](../static/img/docs/1/posts_push.png)
+![vip_pages.png](../static/img/docs/1/vip_pages.png)
