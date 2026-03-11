@@ -7,7 +7,8 @@ sidebar_position: 5.6
 
 ## 使用统计
 
-![5.57.1.png](../../static/img/docs/5/5.57.1.png)
+![5.57.3.png](../../static/img/docs/5/5.6.1.png)
+
 
 用于监控AI助手功能的使用情况，各项功能含义如下：
 **总使用次数**：功能自上线以来被调用的总次数。
@@ -20,7 +21,7 @@ sidebar_position: 5.6
 
 ## 启用AI助手
 
-![5.57.2.png](../../static/img/docs/5/5.57.2.png)
+![5.57.3.png](../../static/img/docs/5/5.6.2.png)
 
 开启后，用户在使用编辑器或相关功能时，可以调用 AI 助手，获得智能辅助，如 AI 摘要生成、搜索文章、查询信息等；关闭后，所有 AI 相关的辅助功能将被禁用。
 
@@ -28,7 +29,7 @@ sidebar_position: 5.6
 
 ### 助手模式
 
-![5.57.3.png](../../static/img/docs/5/5.57.3.png)
+![5.57.3.png](../../static/img/docs/5/5.6.3.png)
 
 这是AI 助手的功能模式选择项，提供两种不同的交互模式
 **网站助手**
@@ -46,7 +47,7 @@ sidebar_position: 5.6
 
 ### 选择AI服务商
 
-![5.57.4.png](../../static/img/docs/5/5.57.4.png)
+![5.57.3.png](../../static/img/docs/5/5.6.4.png)
 
 目前支持 智谱AI、通义千文、文心一言、讯飞星火Lite、Ollama本地部署。请根据合适的服务商接入。
 
@@ -57,7 +58,7 @@ sidebar_position: 5.6
 
 进入网站后选择右上角的控制台（这一步需要你登录/注册了账户）
 
-![5.57.5.png](../../static/img/docs/5/5.57.5.png)
+![5.57.3.png](../../static/img/docs/5/5.6.5.png)
 
 
 进入控制台之后在下方旗舰模型选择API接入
