@@ -10,7 +10,7 @@ sidebar_position: 5.96
 开启后，主题将使用下面配置通过 SMTP 发送邮件（包括意见反馈、系统通知等）。
 
 ## SMTP 服务器参数
-![](https://a1.boltp.com/2026/02/27/69a1bd430c74e.png)
+![](https://a1.boltp.com/2026/03/13/69b40d05d4e4d.png)
 
 ### SMTP 服务器地址
 填写你所使用的邮箱服务商提供的 SMTP 发信服务器地址。
@@ -28,7 +28,7 @@ SMTP 服务使用的网络端口，与加密方式对应。
 登录 SMTP 服务器的凭证。
 
 ### 发件人信息
-![](https://a1.boltp.com/2026/02/27/69a1be293365e.png)
+![](https://a1.boltp.com/2026/03/13/69b40d554e7e5.png)
 
 ### 发件邮箱（From Email）
 设置邮件中显示的 “发件人邮箱地址”，用户收到邮件时看到的发件邮箱就是这个。
@@ -39,8 +39,20 @@ SMTP 服务使用的网络端口，与加密方式对应。
 ## 测试工具
 
 ### 测试收件邮箱
-![](https://a1.boltp.com/2026/02/27/69a1bf2dbe10d.png)
+![](https://a1.boltp.com/2026/03/13/69b40d8745c0f.png)
 填写一个你能正常接收邮件的邮箱地址，作为测试邮件的接收方。
 
 ### 发送测试邮件
 点击此按钮后，系统会使用你配置好的 SMTP 参数，向你填写的测试邮箱发送一封测试邮件。
+
+## 邮件 HTML 模板
+
+### 启用邮件 HTML 模板
+![](https://a1.boltp.com/2026/03/13/69b38d0ea671d.png)
+开启后，站点通过 wp_mail 发送的邮件会使用下面的 HTML 模板包装。
+
+
+### 邮件 HTML 模板
+![](https://a1.boltp.com/2026/03/13/69b38d607ede7.png)
+可用变量：{site_name} {site_url} {subject} {content} {date} {year}
+请保留 {content} 变量用于显示正文内容；留空将使用主题默认模板。

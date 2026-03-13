@@ -6,17 +6,17 @@ sidebar_position: 5.95
 作者：[阿城](https://blog.morehouse-s.com/)
 
 ## 启用VIP会员系统
-![](https://a1.boltp.com/2026/02/27/69a182d83462f.png)
+![](https://a1.boltp.com/2026/03/13/69b39cd355991.png)
 开启后，用户端将显示VIP入口；关闭后，入口隐藏。
 
 ## 会员模式
-![](https://a1.boltp.com/2026/02/27/69a183454d331.png)
+![](https://a1.boltp.com/2026/03/13/69b39cf2b452a.png)
 用于选择 VIP 会员的核心运营模式，决定用户 VIP 身份的生效规则和成长路径。
 
 ## 时长套餐设置
 
 ### 套餐列表
-![](https://a1.boltp.com/2026/02/27/69a183cc057fd.png)
+![](https://a1.boltp.com/2026/03/13/69b39d371eef1.png)
 
 ### 套餐名称
 设置该会员套餐在用户端的显示名称，用于用户识别和选择。
@@ -39,7 +39,7 @@ sidebar_position: 5.95
 ## VIP权益设置
 
 ### VIP权益列表
-![](https://a1.boltp.com/2026/02/27/69a18602e4f12.png)
+![](https://a1.boltp.com/2026/03/13/69b39dd48bc04.png)
 
 **图标（仅移动端显示）**
 为该权益配置专属图标，用于移动端权益卡片的小图标展示，增强视觉辨识度。
@@ -58,7 +58,7 @@ sidebar_position: 5.95
 
 ## 桌面端顶部 Banner 设置
 ### 顶部 Banner 内容
-![](https://a1.boltp.com/2026/02/27/69a186d55a79d.png)
+![](https://a1.boltp.com/2026/03/13/69b40be8d0dd3.png)
 
 **活动角标文案**
 显示在桌面端会员中心顶部 Banner 左上角的小标签，用于突出活动属性或限时感。
@@ -79,13 +79,13 @@ Banner 的核心标题，直接传递 VIP 会员的核心价值主张。
 ## 支付设置
 
 ## 支付方式
-![](https://a1.boltp.com/2026/02/27/69a18835bda74.png)
+![](https://a1.boltp.com/2026/03/13/69b39e13d8abb.png)
 VIP 会员购买时的支付方式配置界面，用于选择用户可使用的支付渠道
 
 ### 联系方式
-![](https://a1.boltp.com/2026/02/27/69a18b50bb25a.png)
+![](https://a1.boltp.com/2026/03/13/69b39e425652b.png)
 在支付 / 会员相关弹窗的底部，向用户展示客服联系方式，用于解决用户在购买、使用会员权益或支付过程中遇到的问题。
 
 ## 会员开通须知
-![](https://a1.boltp.com/2026/02/27/69a1908c94bdf.png)
+![](https://a1.boltp.com/2026/03/13/69b39ea5728fe.png)
 在会员中心底部向用户展示会员使用规则、权益范围和重要约束条款。

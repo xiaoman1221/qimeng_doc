@@ -6,10 +6,7 @@ sidebar_position: 5.6
 作者：[阿城](https://blog.morehouse-s.com/)
 
 ## 使用统计
-
-![5.57.3.png](../../static/img/docs/5/5.6.1.png)
-
-
+![](https://a1.boltp.com/2026/03/13/69b406be11c86.png)
 用于监控AI助手功能的使用情况，各项功能含义如下：
 **总使用次数**：功能自上线以来被调用的总次数。
 **使用用户数**：有多少不同的用户使用过该功能。
@@ -20,17 +17,13 @@ sidebar_position: 5.6
 **近 30 天**：过去 30 天内该功能的累计使用次数。
 
 ## 启用AI助手
-
-![5.57.3.png](../../static/img/docs/5/5.6.2.png)
-
+![](https://a1.boltp.com/2026/03/13/69b3d9bda5311.png)
 开启后，用户在使用编辑器或相关功能时，可以调用 AI 助手，获得智能辅助，如 AI 摘要生成、搜索文章、查询信息等；关闭后，所有 AI 相关的辅助功能将被禁用。
 
 ## 功能模式
 
 ### 助手模式
-
-![5.57.3.png](../../static/img/docs/5/5.6.3.png)
-
+![](https://a1.boltp.com/2026/03/13/69b3d9e1c6b7f.png)
 这是AI 助手的功能模式选择项，提供两种不同的交互模式
 **网站助手**
 专注于与网站本身相关的功能，例如：
@@ -46,9 +39,7 @@ sidebar_position: 5.6
 ## AI服务配置
 
 ### 选择AI服务商
-
-![5.57.3.png](../../static/img/docs/5/5.6.4.png)
-
+![](https://a1.boltp.com/2026/03/13/69b3da200ce0f.png)
 目前支持 智谱AI、通义千文、文心一言、讯飞星火Lite、Ollama本地部署。请根据合适的服务商接入。
 
 ## AI接入教程
@@ -56,43 +47,24 @@ sidebar_position: 5.6
 ### 智谱AI
 登录<a href="https://open.bigmodel.cn/L">智谱AI</a>官网
 
-进入网站后选择右上角的控制台（这一步需要你登录/注册了账户）
-
-![5.57.3.png](../../static/img/docs/5/5.6.5.png)
-
+进入网站后选择右上角的控制台（这一步需要你登录/注册账户）
+![](https://a1.boltp.com/2026/03/13/69b3dba477f95.png)
 
 进入控制台之后在下方旗舰模型选择API接入
-![](https://a1.boltp.com/2026/02/27/69a07b32b0920.png)
+![](https://a1.boltp.com/2026/03/13/69b3dce3d134f.png)
 
 在当前页面里输入您的API名称然后点击创建API。
-![](https://a1.boltp.com/2026/02/27/69a07b2aa0cc9.png)
+![](https://a1.boltp.com/2026/03/13/69b3dd99d7849.png)
 
 随后复制API Key
-![](https://a1.boltp.com/2026/02/27/69a07ce552a68.png)
+![](https://a1.boltp.com/2026/03/13/69b3ddbb35191.png)
 
 将复制的API key输入到主题后台的AI助手API Key中。
-![](https://a1.boltp.com/2026/02/27/69a07ce575207.png)
+![](https://a1.boltp.com/2026/03/13/69b3dddfaac04.png)
 
-### 讯飞星火
-登录<a href="https://www.xfyun.cn/">讯飞星火</a>官网
-
-选择控制台（这一步需要注册或者登录）
-![](https://a1.boltp.com/2026/02/27/69a07e022c558.png)
-
-在 我的应用 中创建一个应用
-![](https://a1.boltp.com/2026/02/27/69a07e6e6e29e.png)
-
-创建完成后在左侧打开星火认知大模型>可定制化API 复制三个API的信息
-![](https://a1.boltp.com/2026/02/27/69a07e6e92e30.png)
-
-将复制的API key输入到主题后台的AI助手API Key中。
-![](https://a1.boltp.com/2026/02/27/69a07e6e70e27.png)
-
-然后前往获取 APPpassword 后填入就可以正常使用了
-![](https://a1.boltp.com/2026/02/27/69a07f888cb24.png)
 
 ## 网站助手功能
-![](https://a1.boltp.com/2026/02/27/69a0f0d1cbf63.png)
+![](https://a1.boltp.com/2026/03/13/69b3de2658df1.png)
 
 ### 网站功能
 这些是 “网站助手” 模式下，AI 助手可以调用的核心站内功能。
@@ -102,10 +74,11 @@ sidebar_position: 5.6
 标签查询：按文章标签进行筛选和检索。
 
 ### 搜索结果数量
+![](https://a1.boltp.com/2026/03/13/69b3de4fee74e.png)
 每次通过 AI 助手进行文章搜索时，系统最多返回 5 篇匹配的文章。
 
 ## 内容创作功能
-![](https://a1.boltp.com/2026/02/27/69a0f27554f70.png)
+![](https://a1.boltp.com/2026/03/13/69b3de904643b.png)
 
 ### 内容创作功能
 这些是 AI 助手在内容创作场景下提供的核心辅助能力。
@@ -122,13 +95,13 @@ sidebar_position: 5.6
 ## 使用权限
 
 ### 使用权限
-![](https://a1.boltp.com/2026/02/27/69a0f6d7ee826.png)
+![](https://a1.boltp.com/2026/03/13/69b3deb5adb5f.png)
 所有人可用：任何访问网站的用户（包括未登录访客）都可以使用 AI 助手功能。
 仅登录用户：只有完成账号登录的用户才能使用。
 仅管理员：仅平台管理员可使用，用于后台配置或测试。
 
 ## 次数限制（按用户）
-![](https://a1.boltp.com/2026/02/27/69a0f71a1f372.png)
+![](https://a1.boltp.com/2026/03/13/69b3def569d05.png)
 
 ### 启用用户次数限制
 开启后，系统将对每个用户使用 AI 助手的次数进行限制，防止资源滥用。
@@ -143,7 +116,7 @@ sidebar_position: 5.6
 开启后，VIP 用户在使用 AI 助手时，将不受限制（但仍受全局次数限制）。
 
 ## 其他设置
-![](https://a1.boltp.com/2026/02/27/69a0f852ab5b6.png)
+![](https://a1.boltp.com/2026/03/13/69b3df3867686.png)
 
 ### 请求频率限制
 限制单个用户或单个 IP 在每分钟内，向 AI 助手发起的请求次数上限为 10 次。
@@ -152,7 +125,7 @@ sidebar_position: 5.6
 当用户发起 AI 请求后，若服务器在 30 秒内未返回结果，系统将判定请求失败并终止该次调用。
 
 ## 缓存设置
-![](https://a1.boltp.com/2026/02/27/69a0f9196a133.png)
+![](https://a1.boltp.com/2026/03/13/69b3df6a4ea26.png)
 
 ### 启用缓存
 开启后，系统会将 AI 助手的回答、站内搜索结果等内容缓存到服务器或内存中。当其他用户或同一用户再次发起相同请求时，系统会直接返回缓存结果，而无需重新调用 AI 模型或数据库。
