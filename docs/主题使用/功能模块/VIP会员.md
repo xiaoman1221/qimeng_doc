@@ -58,7 +58,7 @@ sidebar_position: 5.95
 
 ## 桌面端顶部 Banner 设置
 ### 顶部 Banner 内容
-![](https://a1.boltp.com/2026/02/27/69a186d55a79d.png)
+![](https://a1.boltp.com/2026/03/13/69b40be8d0dd3.png)
 
 **活动角标文案**
 显示在桌面端会员中心顶部 Banner 左上角的小标签，用于突出活动属性或限时感。

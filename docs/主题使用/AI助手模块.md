@@ -6,7 +6,7 @@ sidebar_position: 5.6
 作者：[阿城](https://blog.morehouse-s.com/)
 
 ## 使用统计
-![](https://a1.boltp.com/2026/02/27/69a07526a5f2c.png)
+![](https://a1.boltp.com/2026/03/13/69b406be11c86.png)
 用于监控AI助手功能的使用情况，各项功能含义如下：
 **总使用次数**：功能自上线以来被调用的总次数。
 **使用用户数**：有多少不同的用户使用过该功能。
