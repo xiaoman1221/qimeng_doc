@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="ADD:批量添加文档">
+    <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="FIX:部分文档错别字和图片本地化">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/SEO设置/SEO基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/SEO设置/SEO基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/SEO设置/收录推送.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/SEO设置/收录推送.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/VIP会员.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/任务设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/签到设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/功能模块/联系客服与反馈.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/性能优化.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/支付设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/用户徽章.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/网站备份.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/网站统计.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/邮件与smtp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/网站备份/页脚设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/自定义HTML小工具.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/自定义HTML小工具.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/code.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-blog/options.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-docs/current.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/footer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/navbar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/AI助手模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/AI助手模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/docs/5/5.57.1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/docs/5/5.6.1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/docs/5/5.57.2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/docs/5/5.6.2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/docs/5/5.57.3.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/docs/5/5.6.3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/docs/5/5.57.4.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/docs/5/5.6.4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/docs/5/5.57.5.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/docs/5/5.6.5.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +50,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/im/WebstormProjects/Docs/docs/主题使用&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/im/WebstormProjects/Docs/static/img/docs/5&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;npm.start.executor&quot;: &quot;Run&quot;,
     &quot;npm.write-translations.executor&quot;: &quot;Run&quot;,
@@ -76,13 +60,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\5" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\4" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\1" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\2" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\2" />
+      <recent name="C:\Users\im\WebstormProjects\Docs\static\img\docs\1" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\主题使用\内容管理" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs" />
       <recent name="C:\Users\im\WebstormProjects\Docs\docs\en_US" />
-      <recent name="C:\Users\im\WebstormProjects\Docs\docs\zh_CN" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -136,6 +125,9 @@
       <workItem from="1772172258505" duration="3521000" />
       <workItem from="1772205126588" duration="2209000" />
       <workItem from="1772375391711" duration="415000" />
+      <workItem from="1773063617956" duration="596000" />
+      <workItem from="1773249398504" duration="10308000" />
+      <workItem from="1773261069403" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -289,7 +281,39 @@
       <option name="project" value="LOCAL" />
       <updated>1772375489251</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="FIX:修改文档排序和部分文章错误">
+      <option name="closed" value="true" />
+      <created>1772977771717</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1772977771717</updated>
+    </task>
+    <task id="LOCAL-00021" summary="FIX:部分文档错别字和图片本地化">
+      <option name="closed" value="true" />
+      <created>1773256310357</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1773256310357</updated>
+    </task>
+    <task id="LOCAL-00022" summary="FIX:部分文档错别字和图片本地化">
+      <option name="closed" value="true" />
+      <created>1773260105694</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1773260105694</updated>
+    </task>
+    <task id="LOCAL-00023" summary="FIX:部分文档错别字和图片本地化">
+      <option name="closed" value="true" />
+      <created>1773260324647</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1773260324647</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +348,8 @@
     <MESSAGE value="ADD:评论设置" />
     <MESSAGE value="ADD:1Panel设置和校对" />
     <MESSAGE value="ADD:批量添加文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD:批量添加文档" />
+    <MESSAGE value="FIX:修改文档排序和部分文章错误" />
+    <MESSAGE value="FIX:部分文档错别字和图片本地化" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX:部分文档错别字和图片本地化" />
   </component>
 </project>

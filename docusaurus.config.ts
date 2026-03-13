@@ -8,6 +8,7 @@ const config: Config = {
   title: '启梦主题文档站',
   tagline: '助力每一个梦想',
   favicon: 'img/favicon.ico',
+  staticDirectories: ['public', 'static'],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
