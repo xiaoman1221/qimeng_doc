@@ -1,9 +1,9 @@
 ---
-sidebar_position: 5.95
+sidebar_position: 5.8.3
 ---
 
 # VIP会员
-作者：[阿城](https://blog.morehouse-s.com/)
+作者：[阿城](https://www.hidesg.ink/)
 
 ## 启用VIP会员系统
 ![](https://a1.boltp.com/2026/03/13/69b39cd355991.png)

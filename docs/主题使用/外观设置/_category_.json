@@ -1,0 +1,14 @@
+{
+  "position": 5.1,
+  "label": "外观设置",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "外观设置讲解"
+  },
+  "customProps": {
+    "description": "外观设置讲解，帮助小白快速了解"
+  }
+}

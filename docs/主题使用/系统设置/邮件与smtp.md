@@ -1,12 +1,12 @@
 ---
-sidebar_position: 5.96
+sidebar_position: 5.11.2
 ---
 
 # 邮件&SMTP
-作者：[阿城](https://blog.morehouse-s.com/)
+作者：[阿城](https://www.hidesg.ink/)
 
 ## 启用自定义 SMTP 发信
-![](https://a1.boltp.com/2026/02/27/69a1bcbb1e8fb.png)
+![](https://a1.boltp.com/2026/03/25/69c3a9bcb9fb4.png)
 开启后，主题将使用下面配置通过 SMTP 发送邮件（包括意见反馈、系统通知等）。
 
 ## SMTP 服务器参数

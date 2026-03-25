@@ -1,9 +1,9 @@
 ---
-sidebar_position: 5.47
+sidebar_position: 5.2.11
 ---
 
 # 自定义HTML小工具
-作者：[阿城](https://blog.morehouse-s.com/)
+作者：[阿城](https://www.hidesg.ink/)
 
 ## 全宽区域自定义HTML
 ![5.46.1.png](../../../static/img/docs/5/5.46.1.png)

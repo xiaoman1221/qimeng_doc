@@ -1,14 +1,14 @@
 {
-  "position": 5.12,
-  "label": "SEO模块",
+  "position": 5.9,
+  "label": "AI设置",
   "collapsible": true,
   "collapsed": false,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "SEO模块讲解"
+    "title": "关于AI设置的讲解"
   },
   "customProps": {
-    "description": "SEO模块讲解，帮助小白快速了解"
+    "description": "关于AI设置的讲解"
   }
 }

@@ -3,7 +3,7 @@ sidebar_position: 4.4
 ---
 
 # 安装WordPress
-作者：[阿城](https://blog.morehouse-s.com/)
+作者：[阿城](https://www.hidesg.ink/)
 
 ### 上传源文件
 在网站页面里，点击网站根目录。

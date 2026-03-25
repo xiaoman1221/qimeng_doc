@@ -1,9 +1,9 @@
 ---
-sidebar_position: 5.6
+sidebar_position: 5.9.1
 ---
 
 # AI助手设置
-作者：[阿城](https://blog.morehouse-s.com/)
+作者：[阿城](https://www.hidesg.ink/)
 
 ## 使用统计
 ![](https://a1.boltp.com/2026/03/13/69b406be11c86.png)
