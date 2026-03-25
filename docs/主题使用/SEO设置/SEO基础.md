@@ -1,9 +1,9 @@
 ---
-sidebar_position: 5.98
+sidebar_position: 5.12.1
 ---
 
 # SEO基础
-作者：[阿城](https://blog.morehouse-s.com/)
+作者：[阿城](https://www.hidesg.ink/)
 
 ## 启用主题SEO功能
 ![](https://a1.boltp.com/2026/03/04/69a7ee4c9ff8e.png)

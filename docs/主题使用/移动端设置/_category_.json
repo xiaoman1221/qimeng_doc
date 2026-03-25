@@ -1,0 +1,14 @@
+{
+  "position": 5.10,
+  "label": "移动端设置",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "移动端设置讲解"
+  },
+  "customProps": {
+    "description": "移动端设置讲解，帮助小白快速了解"
+  }
+}

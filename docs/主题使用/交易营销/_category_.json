@@ -1,0 +1,14 @@
+{
+  "position": 5.8,
+  "label": "交易营销",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "关于交易营销功能的讲解"
+  },
+  "customProps": {
+    "description": "关于交易营销功能的讲解"
+  }
+}

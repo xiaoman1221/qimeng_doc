@@ -3,7 +3,7 @@ sidebar_position: 4.3
 ---
 
 
-# 环境配置 - 1Panel篇
+# 1Panel搭建教程
 作者：[小满1221](https://www.yhdzz.cn/)
 
 
@@ -18,7 +18,7 @@ sidebar_position: 4.3
 ![1p_CreateRunEnv.png](../../static/img/docs/4/1p_CreateRunEnv.png)
 
 1. 设置名称
-2. 应用为PHP，8，版本为：8.1.xx
+2. 应用为PHP，8，版本为：8.x.xx
 3. 修改端口（不冲突即可）
 4. 拓展镜像源请选择清华大学镜像源
 
@@ -261,3 +261,19 @@ https://cn.wordpress.org/latest-zh_CN.zip
 然后按照`wp-config.php`的权限信息设置后保存即可
 
 ![1p_ChangeFolderPermission.png](../../static/img/docs/4/1p_ChangeFolderPermission.png)
+
+### 疑难解答D：安装主题提示`SourceGuardian Loader - add 'sourceguardian.enable_vm_hybrid=1' to php.ini which is required for running this protected script with hybrid vm PHP on this platform`
+![](https://a1.boltp.com/2026/03/25/69c3a7cb22824.png)
+
+![](https://a1.boltp.com/2026/03/25/69c3a2d9c1df9.png)
+进入1Panel面板，点击运行环境。选择网站使用的PHP。
+
+![1p_EnterPHPRuntimeEnvFolder.png](../../static/img/docs/4/1p_EnterPHPRuntimeEnvFolder.png)
+
+找到`conf文件夹`->`php.ini`文件，单击打开。
+
+![](https://a1.boltp.com/2026/03/25/69c3a4e95eab2.png)
+在`php.ini`文件里，滑倒最底下。输入 `sourceguardian.enable_vm_hybrid=1`。然后保存。
+
+![1p_RestartPHPEnv.png](../../static/img/docs/4/1p_RestartPHPEnv.png)
+最后回到运行环境处，单击重启即可。

@@ -1,14 +1,14 @@
 {
-  "position": 5.12,
-  "label": "SEO模块",
+  "position": 5.4,
+  "label": "社区设置",
   "collapsible": true,
   "collapsed": false,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "SEO模块讲解"
+    "title": "社区设置"
   },
   "customProps": {
-    "description": "SEO模块讲解，帮助小白快速了解"
+    "description": "社区设置讲解，帮助小白快速了解"
   }
 }
