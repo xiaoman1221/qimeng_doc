@@ -9,7 +9,11 @@ const config: Config = {
   tagline: '助力每一个梦想',
   favicon: 'img/favicon.ico',
   staticDirectories: ['public', 'static'],
-
+  markdown: {
+    hooks: {
+      onBrokenMarkdownImages: 'ignore',
+    },
+  },
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4

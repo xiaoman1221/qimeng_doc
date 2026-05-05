@@ -2,13 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="712fe70b-a864-425e-ae5b-b9bb001f9659" name="更改" comment="FIX:部分文档错别字和图片本地化">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2026_3_8_21_39____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2026_3_8_21_39_取消提交了更改_[更改]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/主题使用/邮件与smtp.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/邮件与smtp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/code.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-blog/options.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-plugin-content-docs/current.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/footer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/i18n/zh-Hans/docusaurus-theme-classic/navbar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/AI设置/AI助手模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/AI设置/AI助手模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/SEO设置/SEO基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/SEO设置/SEO基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/SEO设置/收录推送.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/SEO设置/收录推送.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/交易营销/VIP会员.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/交易营销/VIP会员.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/交易营销/优惠券设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/交易营销/优惠券设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/交易营销/推广与邀请.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/交易营销/推广与邀请.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/文章前端发布.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/文章前端发布.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/文章设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/内容管理/评论设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/内容管理/评论设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/外观设置/基础外观.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/外观设置/基础外观.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/客服设置/在线客服.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/客服设置/在线客服.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/客服设置/工单设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/客服设置/工单设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/客服设置/悬浮工具栏.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/客服设置/悬浮工具栏.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/客服设置/联系客服与反馈.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/客服设置/联系客服与反馈.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/任务设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/任务设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/用户徽章.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/用户徽章.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/登录注册.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/登录注册.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/私信与消息.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/私信与消息.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/第三方登录.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/第三方登录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/用户设置/签到设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/用户设置/签到设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/社区设置/社区发布设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/社区设置/社区发布设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/社区设置/社区权限.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/社区设置/社区权限.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/移动端设置/底部导航与快捷入口.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/移动端设置/底部导航与快捷入口.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/等级系统/基础设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/等级系统/基础设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/等级系统/外观映射.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/等级系统/外观映射.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/等级系统/经验获取规则.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/等级系统/经验获取规则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/系统设置/对象缓存.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/系统设置/对象缓存.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/系统设置/性能优化.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/系统设置/性能优化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/系统设置/邮件与smtp.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/系统设置/邮件与smtp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/公告模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/公告模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/卡片模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/卡片模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片叠加组件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片叠加组件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/幻灯片设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/用户展示模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/素材展示模块设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/素材展示模块设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/自定义HTML小工具.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/自定义HTML小工具.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/软件下载模块设置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/软件下载模块设置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/首页布局.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/首页布局.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/首页弹窗：会员入会.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/首页弹窗：会员入会.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/主题使用/首页设置/首页弹窗：普通公告.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/主题使用/首页设置/首页弹窗：普通公告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装WordPress（宝塔）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/安装主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/安装主题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/宝塔PHP环境配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/宝塔PHP环境配置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/准备工作/宝塔添加与配置站点.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/准备工作/宝塔添加与配置站点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/购买主题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/购买主题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +92,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "C:/Users/im/WebstormProjects/Docs/static/img/docs/5",
@@ -56,7 +101,7 @@
     "npm.start.executor": "Run",
     "npm.write-heading-ids.executor": "Run",
     "npm.write-translations.executor": "Run",
-    "ts.external.directory.path": "C:\\Users\\im\\WebstormProjects\\Docs\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "/Users/xiaoman1221/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -129,7 +174,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.23567.141" />
       </set>
     </attachedChunks>
   </component>
@@ -153,6 +198,7 @@
       <workItem from="1773249398504" duration="10308000" />
       <workItem from="1773261069403" duration="207000" />
       <workItem from="1773413331717" duration="426000" />
+      <workItem from="1777972824808" duration="1375000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
